@@ -28,3 +28,4 @@ Free to use for learning and personal projects.
 
 ## Demo
 
+https://nakulsh02.github.io/Calculator/
